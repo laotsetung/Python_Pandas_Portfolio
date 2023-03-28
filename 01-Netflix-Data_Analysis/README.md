@@ -2,7 +2,8 @@ LEVEL 1 DATA ANALYSIS
 
 Analysis of a netflix dataset
 
-file = netflix_analise.ipynb
+Python (Jupyter Notebook) File = netflix_analise.ipynb
+Netflix Data = "CONTENT_INTERACTION/atividades.csv"
 
 <b> GRAPHS: <br> PIE GRAPH OF ALL VIEWS</b><br><br>
 <img src='viz_por_perfil.png' />
